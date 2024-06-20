@@ -2,9 +2,9 @@
 // for details. All rights reserved. Use of this source code is governed by a
 // BSD-style license that can be found in the LICENSE file.
 
-import 'package:cloud_firestore_odm_generator_integration_test/simple.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+import '../lib/simple.dart';
 import 'setup_firestore_mock.dart';
 
 void main() {
